@@ -25,7 +25,7 @@ h1 {
     text-decoration: none;
 }
 
-/* スライダーの設定 */
+/*背景の設定*/
 body {
     margin: 0;
     padding: 0;
@@ -33,6 +33,7 @@ body {
     background-image: url('background.png');
 }
 
+/* スライダーの設定 */
 .slider-container {
     width: 880px;
     height: 405px;
@@ -72,4 +73,17 @@ h2 {
         2px -2px 0 #000,
         -2px 2px 0 #000,
         2px 2px 0 #000;
+}
+
+h3{
+    font-size:72px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/*box*/
+.Under construction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
