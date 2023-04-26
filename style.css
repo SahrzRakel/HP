@@ -54,7 +54,7 @@ body {
 
 .slide.active {
     transform: translateX(-880px);
-    z-index: 2;
+    z-index: 3;
 }
 
 .slider-image {
@@ -75,15 +75,12 @@ h2 {
         2px 2px 0 #000;
 }
 
-h3{
-    font-size:72px;
+h3 {
+    font-size: 18px;
     text-align: center;
-    color: #ffffff;
-}
-
-/*box*/
-.Under construction {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-shadow: 
+        -2px -2px 0 #ffffff, 
+        2px -2px 0 #ffffff, 
+        -2px 2px 0 #ffffff, 
+        2px 2px 0 #ffffff;
 }

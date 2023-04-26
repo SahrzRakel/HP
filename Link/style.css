@@ -1,0 +1,33 @@
+/*背景の設定*/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    background-image: url('background.png');
+}
+/* バナーの設定 */
+h1 {
+    font-size: 36px;
+    text-align: center;
+    height: 25px;
+    line-height: 25px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.banner-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    width: 320px;
+    height: 65px;
+    background-color: #444444; /* バナーの背景色を指定 */
+    border: 2px solid #ffffff;
+}
+
+    .banner a {
+        text-decoration: none;
+    }
