@@ -89,3 +89,13 @@ h3 {
         -2px 2px 0 #ffffff, 
         2px 2px 0 #ffffff;
 }
+
+/*çXêVèÓïÒ*/
+
+h4 {
+    text-shadow: 
+        -1px -1px 0 #ffffff, 
+        1px -1px 0 #ffffff, 
+        -1px 1px 0 #ffffff, 
+        1px 1px 0 #ffffff;
+}
