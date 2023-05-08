@@ -28,20 +28,6 @@ h1 {
     border: 2px solid #ffffff;
 }
 
-.banner a {
-    text-decoration: none;
-}
-
-/*game*/
-#game {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}
-
-canvas {
-    background-color: white;
-    border: 1px solid black;
-}
+    .banner a {
+        text-decoration: none;
+    }

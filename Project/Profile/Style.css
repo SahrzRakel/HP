@@ -1,9 +1,12 @@
-/*背景の設定*/
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #f2f2f2;
-    background-image: url('background.png');
+/*画像の表示位置*/
+.image{
+    text-align:center;
+}
+
+/*文字の色*/
+h1 {
+    color: white;
+    text-align:center;
 }
 /* バナーの設定 */
 h1 {
@@ -28,20 +31,6 @@ h1 {
     border: 2px solid #ffffff;
 }
 
-.banner a {
-    text-decoration: none;
-}
-
-/*game*/
-#game {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}
-
-canvas {
-    background-color: white;
-    border: 1px solid black;
-}
+    .banner a {
+        text-decoration: none;
+    }
