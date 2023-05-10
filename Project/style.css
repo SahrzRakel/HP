@@ -1,11 +1,10 @@
-/*”wŒi‚Ìİ’è*/
+ï»¿/*èƒŒæ™¯ã®è¨­å®š*/
 body {
     margin: 0;
     padding: 0;
     background-color: #f2f2f2;
-    background-image: url('background.png');
 }
-/* ƒoƒi[‚Ìİ’è */
+/* ãƒãƒŠãƒ¼ã®è¨­å®š */
 h1 {
     font-size: 36px;
     text-align: center;
@@ -24,7 +23,7 @@ h1 {
 .banner {
     width: 320px;
     height: 65px;
-    background-color: #444444; /* ƒoƒi[‚Ì”wŒiF‚ğw’è */
+    background-color: #444444; /* ãƒãƒŠãƒ¼ã®èƒŒæ™¯è‰²ã‚’æŒ‡å®š */
     border: 2px solid #ffffff;
 }
 
@@ -37,7 +36,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 70vh;
     margin: 0;
 }
 

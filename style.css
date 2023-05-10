@@ -1,9 +1,10 @@
-/*“üŒû*/
+ï»¿/*å…¥å£*/
 .index-vw{
     max-width:100%;
-    height:auto;
+    max-height:100%;
 }
-/* ƒoƒi[‚Ìİ’è */
+
+/* ãƒãƒŠãƒ¼ã®è¨­å®š */
 h1 {
     font-size: 36px;
     text-align: center;
@@ -22,7 +23,7 @@ h1 {
 .banner {
     width: 320px;
     height: 65px;
-    background-color: #444444; /* ƒoƒi[‚Ì”wŒiF‚ğw’è */
+    background-color: #444444; /* ãƒãƒŠãƒ¼ã®èƒŒæ™¯è‰²ã‚’æŒ‡å®š */
     border: 2px solid #ffffff;
 }
 
@@ -30,7 +31,7 @@ h1 {
     text-decoration: none;
 }
 
-/*”wŒi‚Ìİ’è*/
+/*èƒŒæ™¯ã®è¨­å®š*/
 body {
     margin: 0;
     padding: 0;
@@ -38,7 +39,7 @@ body {
     background-image: url('background.png');
 }
 
-/* ƒXƒ‰ƒCƒ_[‚Ìİ’è */
+/* ã‚¹ãƒ©ã‚¤ãƒ€ãƒ¼ã®è¨­å®š */
 .slider-container {
     width: 880px;
     height: 405px;
@@ -90,7 +91,7 @@ h3 {
         2px 2px 0 #ffffff;
 }
 
-/*XVî•ñ*/
+/*æ›´æ–°æƒ…å ±*/
 
 h4 {
     text-shadow: 
